@@ -45,12 +45,13 @@ export default function Home() {
                 <div className="landing-right1">
                < div>
                         <h1>
-                             Day 1.
+                             Lorem Ipsum.
                         </h1>
-                        <p>Let food be thy medicine and medicine be thy food.</p>
-                        <p>Food is symbolic of love when words are inadequate.</p>
-                        <p>One cannot think well, love well, sleep well, if one has not dined well.</p>
-                        
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </p>
+                        <p>ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                        <p>nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat </p>
+                        <p>nulla pariatur. </p>
                         <br />
                         <button className="primary-button1">
                             <h4>Learn more</h4>
@@ -61,13 +62,15 @@ export default function Home() {
             <div className="landing2">
                 <div className="landing-left2">
                     <div>
-                        <h1>
-                        Day 2.
+                    <h1>
+                             Lorem Ipsum.
                         </h1>
-                        <p>If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.</p>
-                        <p>There is no love sincerer than the love of food.</p>
-                        <p>Food is not rational. Food is culture, habit, craving, and identity.</p>
-
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </p>
+                        <p>ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                        <p>nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat </p>
+                        <p>nulla pariatur. </p>
+                        <br />
                         <button className="primary-button1">
                             <h4>Learn more</h4>
                         </button>
@@ -86,13 +89,14 @@ export default function Home() {
 
                 <div className="landing-right3">
                < div>
-                        <h1>
-                            Day 3.
+               <h1>
+                             Lorem Ipsum.
                         </h1>
-                        <p>Food is our common ground, a universal experience.</p>
-                        <p>Food may be essential as fuel for the body, but good food is fuel for the soul.</p>
-                        <p>Laughter is brightest in the place where food is.</p>
-                        <br />
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </p>
+                        <p>ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                        <p>nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat </p>
+                        <p>nulla pariatur. </p>                        <br />
                         <button className="primary-button1">
                             <h4>Learn more</h4>
                         </button>
@@ -102,13 +106,15 @@ export default function Home() {
             <div className="landing4">
                 <div className="landing-left4">
                     <div>
-                        <h1>
-                        Day 4.
+                    <h1>
+                             Lorem Ipsum.
                         </h1>
-                        <p>Food for us comes from our relatives, whether they have wings or fins or roots.</p>
-                           <p> That is how we consider food. Food has a culture. </p>
-                            <p>It has a history. It has a story.It has relationships.</p>
-
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </p>
+                        <p>ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                        <p>nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat </p>
+                        <p>nulla pariatur. </p>
+                        <br />
                         <button className="primary-button1">
                             <h4>Learn more</h4>
                         </button>
@@ -121,17 +127,18 @@ export default function Home() {
             <div className="landing5">
                  <div className="landing-left5">
                     <div>
-                        <h1>
-                        Day 5.
+                    <h1>
+                             Lorem Ipsum.
                         </h1>
-                        <p>A party without cake is just a meeting.</p>
-                        <p>Everything you see I owe to spaghetti.</p>
-                        <p>Ice cream is exquisite. What a pity it isn’t illegal.</p>
-                    </div>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt </p>
+                        <p>ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                        <p>nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat </p>
+                        <p>nulla pariatur. </p>                    </div>
                  </div>
              <div>
                 <div className="landing-right5">
-                    <img src="/images/6.png" width="45%" />
+                    <img src="/images/6.png" width="250px" height="250px"/>
                 </div>
              </div>
              </div>
